@@ -7,7 +7,8 @@ Now to fix The linux Crashing issue is super simple
 
 1. Right Click on Halo Infinite
 
-![alt text]([https://github.com/users/MechThumbs/projects/1/assets/67201995/1d13357c-c293-46aa-a736-c4b42b8a5fc8](https://github.com/MechThumbs/Halo-Infinite-Meme-Fix/blob/main/Screenshot%20from%202023-12-09%2013-11-59.png)
+![Image](/Halo-Infinite-Meme-Fix/blob/main/Ignore/Screenshots/Screenshot%20from%202023-12-09%2013-11-59.png)
+
 
 2. Select Manage, Then select Browse Local Files
 
