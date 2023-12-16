@@ -20,7 +20,7 @@ You will be greeted with a file list that looks like this.
 
 3. Open up the videos folder
 
-![Image](https://github.com/MechThumbs/Halo-Infinite-Meme-Fix/blob/main/Ignore/Screenshots/Screenshot%20from%202023-12-09%2013-16-46.png)
+![Image](https://github.com/MechThumbs/Halo-Infinite-Meme-Fix/blob/main/Ignore/Screenshots/Screenshot%20from%202023-12-09%2013-36-27.png)
 
 4. You will see intro.mp4 and Startup_Sequence_Loading.mp4
 These videos can be modified! It works with Linux and Windows. 
