@@ -33,7 +33,7 @@ FIX YOUR GAME 343 and Microsoft Damn....
 
 if you want to have fun like I did you can edit these video and swap them for others. Just remember to change the name to the corresponding name. You will see the video play like this!
 
-Image
+![Image](https://github.com/users/MechThumbs/projects/1/assets/67201995/41ce23fa-636b-4f99-a7c7-72d9fee090b4)
 This one reminds me that I need to stop playing this game and get to work. All it does tho is make me laugh!
 
 The intro Video is 20 seconds long. I don't know what would happen if you had a longer video. The fun is you can always try something. Just let us know here! Please. You can add to this all you like. I want to see what you all create! i know its going to be funnier than what I can create!
